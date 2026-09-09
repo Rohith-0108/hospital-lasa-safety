@@ -1,0 +1,9 @@
+<svg viewBox="0 0 220 140" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="220" height="140" fill="#ffffff"/>
+  <rect x="30" y="55" width="140" height="26" rx="13" fill="#e6e6e6" stroke="#8f9490" stroke-width="2"/>
+  <rect x="150" y="60" width="20" height="16" rx="4" fill="#c9c4b6"/>
+  <rect x="46" y="60" width="90" height="16" fill="#ffffff" stroke="#8f9490" stroke-width="1"/>
+  <text x="50" y="71" font-family="Helvetica, Arial" font-size="8" font-weight="700" fill="#1f1c16">insulin LISPRO</text>
+  <text x="30" y="100" font-family="Helvetica, Arial" font-size="10" fill="#3a362e">100 units/mL</text>
+  <text x="30" y="114" font-family="Helvetica, Arial" font-size="9" fill="#5a564a">pen pen  |  Shelf: W-05-A</text>
+</svg>

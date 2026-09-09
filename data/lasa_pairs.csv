@@ -1,0 +1,9 @@
+id_a,id_b,confusion_type,reference_risk_tier,notes
+M01,M02,sound-alike,High,"Hydralazine / Hydroxyzine - widely cited LASA pair in institutional safety bulletins"
+M03,M04,sound-alike+look-alike,Critical,"Vinblastine / Vincristine - both chemotherapy, narrow therapeutic index, intrathecal vincristine is fatal"
+M05,M06,sound-alike+look-alike,Critical,"Epinephrine / Ephedrine - both OR pressors stored near each other, ampoules visually similar"
+M07,M08,look-alike,Critical,"Insulin Lispro / Insulin Glargine - similar pen packaging, opposite action profile (rapid vs long)"
+M09,M10,sound-alike,Critical,"Hydromorphone / Morphine - opioids, large potency difference, both high-alert"
+M11,M12,sound-alike,High,"Losartan / Lorazepam - classic ISMP-style confusion pair, different drug classes entirely"
+M13,M14,sound-alike,High,"Chlorpromazine / Chlorpropamide - antipsychotic vs sulfonylurea, opposite intended effect"
+M15,M16,sound-alike,Medium,"Metformin / Metronidazole - antidiabetic vs antibiotic"

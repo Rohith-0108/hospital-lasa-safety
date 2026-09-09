@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LASA Medicine Selection Safety Interface — Prototype</title>
+<meta name="description" content="Interactive prototype comparing a baseline pharmacy pick-list against a risk-aware safety interface for look-alike/sound-alike (LASA) medicine selection.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 2l8 3.5v6.2c0 5.4-3.6 9-8 10.3-4.4-1.3-8-4.9-8-10.3V5.5L12 2z' fill='%230f6e63'/%3E%3Cpath d='M9.3 12.3l1.9 1.9 3.7-3.9' stroke='white' stroke-width='1.8' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip-link" href="#main-content">Skip to main content</a>
+
+<div class="app-shell">
+
+  <header class="top-bar">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true">
+        <svg viewBox="0 0 24 24"><path d="M12 2l8 3.5v6.2c0 5.4-3.6 9-8 10.3-4.4-1.3-8-4.9-8-10.3V5.5L12 2z" fill="currentColor"/><path d="M9.3 12.3l1.9 1.9 3.7-3.9" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </span>
+      <div class="brand-text">
+        <span class="brand-name">LASA Medicine Selection Safety Interface</span>
+        <small>Field-ready prototype · hospital pharmacy (wards / operating rooms / outpatients)</small>
+      </div>
+    </div>
+    <nav class="mode-toggle" role="group" aria-label="Choose which interface to demonstrate">
+      <button data-mode="baseline" aria-pressed="false">
+        <svg class="btn-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M2 12s3.6-6.5 10-6.5S22 12 22 12s-3.6 6.5-10 6.5S2 12 2 12z" fill="none" stroke="currentColor" stroke-width="1.8"/><circle cx="12" cy="12" r="2.6" fill="none" stroke="currentColor" stroke-width="1.8"/></svg>
+        Baseline (current process)
+      </button>
+      <button data-mode="proposed" class="active" aria-pressed="true">
+        <svg class="btn-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l7 3v6c0 4.5-3 7.5-7 9-4-1.5-7-4.5-7-9V6l7-3z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M9 12l2 2 4-4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        Proposed safety interface
+      </button>
+    </nav>
+  </header>
+
+  <section class="eval-strip" aria-label="Evaluation summary">
+    <details open>
+      <summary>
+        <span class="summary-title">Evaluation snapshot — controlled dispensing experiment</span>
+        <span class="summary-sub">800 simulated trials, seed 42 · reproduce with <code>python3 -m src.simulate_dispensing</code></span>
+      </summary>
+      <div class="eval-body">
+        <div class="eval-stats">
+          <div class="stat-card stat-bad">
+            <span class="stat-value">40.4%</span>
+            <span class="stat-label">Baseline error rate</span>
+          </div>
+          <div class="stat-card stat-good">
+            <span class="stat-value">10.1%</span>
+            <span class="stat-label">Proposed error rate</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-value">242 / 800</span>
+            <span class="stat-label">Selection errors prevented</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-value">0.0%</span>
+            <span class="stat-label">False-positive rate on safety controls</span>
+          </div>
+        </div>
+        <div class="eval-chart" aria-hidden="true">
+          <svg viewBox="0 0 220 130" role="img" aria-label="Bar chart: baseline error rate 40.4 percent versus proposed error rate 10.1 percent">
+            <line x1="30" y1="110" x2="210" y2="110" stroke="var(--line)" stroke-width="1.5"/>
+            <rect x="48" y="27" width="46" height="83" rx="3" fill="var(--red)"/>
+            <text x="71" y="20" text-anchor="middle" class="chart-num">40.4%</text>
+            <text x="71" y="124" text-anchor="middle" class="chart-lbl">Baseline</text>
+            <rect x="140" y="89" width="46" height="21" rx="3" fill="var(--green)"/>
+            <text x="163" y="82" text-anchor="middle" class="chart-num">10.1%</text>
+            <text x="163" y="124" text-anchor="middle" class="chart-lbl">Proposed</text>
+          </svg>
+        </div>
+        <p class="eval-caveat">
+          Target was a ≥90% reduction in selection errors; the measured reduction across all 8 LASA pairs was <strong>74.9%</strong> — a real, large improvement, but short of target (driven mostly by one harder pair, Metformin/Metronidazole — see <code>docs/error_analysis.md</code>). Reported honestly rather than rounded up.
+        </p>
+      </div>
+    </details>
+    <div class="legend" role="note" aria-label="Risk tier color key">
+      <span class="legend-label">Risk tiers:</span>
+      <span class="tier-tag tier-Low">Low</span>
+      <span class="tier-tag tier-Medium">Medium</span>
+      <span class="tier-tag tier-High">High</span>
+      <span class="tier-tag tier-Critical">Critical</span>
+      <span class="legend-note">— higher tiers add mandatory verification before dispensing</span>
+    </div>
+  </section>
+
+  <section class="journey-bar" aria-label="Choose a patient journey to simulate">
+    <div class="journey-group">
+      <span class="label" id="journey-label">1. Pick a patient journey</span>
+      <div class="journey-buttons" role="group" aria-labelledby="journey-label">
+        <button class="journey-btn urgent" data-journey="or_stat" aria-pressed="false">
+          <svg class="btn-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4L2.5 20h19L12 4z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><line x1="12" y1="10" x2="12" y2="14.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><circle cx="12" cy="17.2" r="0.9" fill="currentColor"/></svg>
+          <span>OR — STAT pressor <em>(high urgency)</em></span>
+        </button>
+        <button class="journey-btn" data-journey="outpatient_refill" aria-pressed="false">
+          <svg class="btn-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 7v5l3.3 1.9" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          <span>Outpatient — routine refill <em>(low urgency)</em></span>
+        </button>
+      </div>
+    </div>
+    <div class="failure-demo-group">
+      <span class="label" id="failure-label">Or jump to a failure-case demo</span>
+      <div class="failure-buttons" role="group" aria-labelledby="failure-label">
+        <button class="failure-btn" id="btn-demo-tie" title="Types a short prefix shared by two critical-risk chemotherapy drugs and shows the resulting ambiguous tie.">
+          <svg class="btn-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 6h13M8 12h13M8 18h13" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><circle cx="3.5" cy="6" r="1.6" fill="currentColor"/><circle cx="3.5" cy="18" r="1.6" fill="currentColor"/></svg>
+          1. Ambiguous tie
+        </button>
+        <button class="failure-btn" id="btn-demo-barcode" title="Selects Morphine on screen but scans the Hydromorphone vial to show a barcode mismatch catch.">
+          <svg class="btn-icon" viewBox="0 0 24 24" aria-hidden="true"><line x1="4" y1="5" x2="4" y2="19" stroke="currentColor" stroke-width="1.6"/><line x1="8" y1="5" x2="8" y2="19" stroke="currentColor" stroke-width="1.6"/><line x1="11" y1="5" x2="11" y2="19" stroke="currentColor" stroke-width="2.6"/><line x1="15" y1="5" x2="15" y2="19" stroke="currentColor" stroke-width="1.6"/><line x1="18" y1="5" x2="18" y2="19" stroke="currentColor" stroke-width="1.6"/></svg>
+          2. Barcode mismatch
+        </button>
+        <button class="failure-btn" id="btn-demo-shelf" title="Insulin Lispro was restocked in the Glargine bin, so the shelf scan does not match the expected location.">
+          <svg class="btn-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-6.5-5.8-6.5-11A6.5 6.5 0 0 1 18.5 10c0 5.2-6.5 11-6.5 11z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><circle cx="12" cy="10" r="2.2" fill="none" stroke="currentColor" stroke-width="1.8"/></svg>
+          3. Shelf mismatch
+        </button>
+        <button class="failure-btn" id="btn-demo-override" title="Attempts to bypass required checks under time pressure — override is always logged, never silent.">
+          <svg class="btn-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 3v18" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><path d="M5 4h11l-2.5 4L16 12H5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg>
+          4. Override under pressure
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <main class="layout" id="main-content">
+    <section class="panel panel-search">
+      <h2><svg class="h-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10" cy="10" r="6" fill="none" stroke="currentColor" stroke-width="1.8"/><line x1="14.5" y1="14.5" x2="20" y2="20" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>2. Order &amp; search</h2>
+      <div id="order-summary" class="order-summary" aria-live="polite"></div>
+      <label class="visually-hidden" for="search-input">Type or transcribe the medicine name</label>
+      <input id="search-input" class="search-box" placeholder="Type or transcribe the medicine name…" autocomplete="off">
+      <div id="result-list" class="result-list" aria-live="polite"></div>
+    </section>
+
+    <section class="panel panel-detail">
+      <h2><svg class="h-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h10" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>3. Selected item</h2>
+      <div id="detail-panel-body" aria-live="polite"></div>
+    </section>
+
+    <section class="panel panel-review">
+      <h2><svg class="h-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 12.5l2.2 2.2L16 9.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/><rect x="3.5" y="3.5" width="17" height="17" rx="3" fill="none" stroke="currentColor" stroke-width="1.8"/></svg>4. Human review &amp; verification</h2>
+      <div id="review-panel-body" aria-live="polite"></div>
+      <h2 class="audit-heading"><svg class="h-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 7v5l3.3 1.9" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>Audit log</h2>
+      <div id="audit-log" class="audit-log" aria-live="polite"></div>
+    </section>
+  </main>
+
+  <footer class="meta">
+    Prototype for demonstration and evaluation only — not connected to a live pharmacy system. All medicine names are real; all packaging artwork is original, non-branded illustration created for this project.
+  </footer>
+</div>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
