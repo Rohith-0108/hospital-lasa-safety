@@ -1,0 +1,11 @@
+<svg viewBox="0 0 220 140" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="220" height="140" fill="#ffffff"/>
+  <rect x="86" y="10" width="48" height="14" rx="3" fill="#c9c4b6"/>
+  <rect x="70" y="24" width="80" height="96" rx="8" fill="#eef0ee" stroke="#8f9490" stroke-width="2"/>
+  <rect x="74" y="46" width="72" height="46" fill="#ffffff" stroke="#8f9490" stroke-width="1"/>
+  <text x="80" y="60" font-family="Helvetica, Arial" font-size="10" font-weight="700" fill="#1f1c16">vinCRIStine</text>
+  <text x="80" y="74" font-family="Helvetica, Arial" font-size="9" fill="#3a362e">1 mg/1 mL</text>
+  <text x="80" y="86" font-family="Helvetica, Arial" font-size="8" fill="#5a564a">vial</text>
+  <text x="74" y="106" font-family="Helvetica, Arial" font-size="8" fill="#5a564a">Shelf: ONC-03-B</text>
+  <line x1="70" y1="24" x2="150" y2="24" stroke="#8f9490" stroke-width="2"/>
+</svg>

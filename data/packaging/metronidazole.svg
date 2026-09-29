@@ -1,0 +1,25 @@
+<svg viewBox="0 0 220 140" xmlns="http://www.w3.org/2000/svg">
+  <rect x="4" y="4" width="212" height="132" rx="6" fill="#f5f3ee" stroke="#9a9488" stroke-width="2"/>
+  <rect x="4" y="4" width="212" height="26" rx="6" fill="#d9d4c7"/>
+  <text x="12" y="21" font-family="Helvetica, Arial" font-size="11" fill="#3a362e">HOSPITAL PHARMACY STOCK</text>
+  <text x="12" y="58" font-family="Helvetica, Arial" font-size="16" font-weight="700" fill="#1f1c16">metroNIDAZOLE</text>
+  <text x="12" y="78" font-family="Helvetica, Arial" font-size="12" fill="#3a362e">400 mg</text>
+  <text x="12" y="94" font-family="Helvetica, Arial" font-size="11" fill="#5a564a">tablet</text>
+  <text x="12" y="112" font-family="Helvetica, Arial" font-size="10" fill="#5a564a">Shelf: OP-03-B</text>
+  <g transform="translate(150,96)">
+    <rect x="0" y="0" width="56" height="18" fill="#1f1c16"/>
+    <rect x="3" y="2" width="2" height="14" fill="#f5f3ee"/>
+    <rect x="7" y="2" width="1" height="14" fill="#f5f3ee"/>
+    <rect x="10" y="2" width="3" height="14" fill="#f5f3ee"/>
+    <rect x="15" y="2" width="1" height="14" fill="#f5f3ee"/>
+    <rect x="18" y="2" width="2" height="14" fill="#f5f3ee"/>
+    <rect x="22" y="2" width="1" height="14" fill="#f5f3ee"/>
+    <rect x="26" y="2" width="3" height="14" fill="#f5f3ee"/>
+    <rect x="31" y="2" width="1" height="14" fill="#f5f3ee"/>
+    <rect x="34" y="2" width="2" height="14" fill="#f5f3ee"/>
+    <rect x="38" y="2" width="1" height="14" fill="#f5f3ee"/>
+    <rect x="41" y="2" width="3" height="14" fill="#f5f3ee"/>
+    <rect x="46" y="2" width="1" height="14" fill="#f5f3ee"/>
+    <rect x="49" y="2" width="2" height="14" fill="#f5f3ee"/>
+  </g>
+</svg>

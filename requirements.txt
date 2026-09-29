@@ -1,0 +1,3 @@
+# Core src/ modules use only the Python standard library.
+# pytest is required to run the test suite.
+pytest>=7.0
