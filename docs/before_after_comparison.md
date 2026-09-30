@@ -42,7 +42,7 @@ clinical statistic.
 | Chlorpromazine / Chlorpropamide | 100 | 58 | 8 | 50 | 58.0% | 8.0% |
 | **Metformin / Metronidazole** | 100 | 39 | **37** | **2** | 39.0% | 37.0% |
 
-Seven of eight pairs show strong error reduction (79-93% relative reduction per pair).
+Five of eight pairs show at least 79% relative error reduction; the remaining three pairs show lower reductions, including Metformin / Metronidazole at 5.1%.
 **Metformin / Metronidazole is the clear outlier** and is analysed in
 `docs/error_analysis.md` - it is curated as `Medium` reference risk tier, and this
 prototype's engine only makes the mandatory second-check/barcode path required for
@@ -52,7 +52,7 @@ protection beyond the baseline.
 ## Why the proposed approach is appropriate despite missing the 90% target
 
 1. **It is directionally and substantially better on identical inputs** - a 74.9%
-   relative reduction, with seven of eight pairs individually clearing 79%+ reduction.
+   relative reduction, with five of eight pairs individually clearing 79%+ reduction.
 2. **It adds effectively zero friction to safe picks** (0.0% false positives on
    control items), which matters as much as the error reduction: a system that
    "solves" LASA risk by flagging everything would be discarded by staff within days
