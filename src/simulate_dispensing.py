@@ -11,11 +11,11 @@ For every known LASA pair (data/lasa_pairs.csv) we generate simulated
 "selection events": a pharmacy technician/nurse types or transcribes a
 verbal/handwritten order for medicine A, but the input is corrupted in a
 way that is realistic for that confusion type:
-  - sound-alike pairs: the typed text is shifted toward the confusable
-    partner's name (simulating mishearing / phonetic slip)
-  - look-alike pairs: the "input" is treated as correct, but the picking
-    error happens at the physical/visual stage (simulated as a chance the
-    wrong physically-adjacent item is grabbed)
+  - the typed text is shifted toward the confusable
+    partner's name (simulating a controlled transcription / typing error)
+  - this same input-corruption approach is used for both sound-alike and
+    look-alike pairs; physical packaging/shelf verification is represented
+    through the proposed safety checks rather than a separate visual simulation.
 
 We also run a block of "control" trials on non-LASA medicines to measure
 false positives / added friction the proposed system introduces on safe,
