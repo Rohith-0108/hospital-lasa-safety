@@ -4,12 +4,12 @@
   "second_check_catch_rate_assumption": 0.88,
   "target_error_reduction": 0.9,
   "total_trials": 800,
-  "baseline_errors": 323,
-  "proposed_errors": 81,
-  "baseline_error_rate": 0.4037,
-  "proposed_error_rate": 0.1013,
-  "errors_prevented": 242,
-  "measured_percent_reduction": 0.7492,
+  "baseline_errors": 318,
+  "proposed_errors": 48,
+  "baseline_error_rate": 0.3975,
+  "proposed_error_rate": 0.06,
+  "errors_prevented": 270,
+  "measured_percent_reduction": 0.8491,
   "target_met": false,
   "control_trials": 80,
   "control_false_positive_flags": 0,
@@ -52,8 +52,8 @@
     },
     "Metformin / Metronidazole": {
       "trials": 100,
-      "baseline_errors": 39,
-      "proposed_errors": 37
+      "baseline_errors": 34,
+      "proposed_errors": 4
     }
   }
 }

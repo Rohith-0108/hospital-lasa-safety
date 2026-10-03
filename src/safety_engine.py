@@ -109,7 +109,7 @@ class SafetyEngine:
             ambiguous_tie = (results[0]["match_confidence"] - results[1]["match_confidence"]) < TIE_MARGIN \
                 and results[0]["id"] != results[1]["id"]
 
-        requires_second_check = risk_level in ("High", "Critical") or ambiguous_tie
+        requires_second_check = risk_level in ("Medium", "High", "Critical") or ambiguous_tie
         requires_barcode = risk_level in ("High", "Critical")
 
         return {
