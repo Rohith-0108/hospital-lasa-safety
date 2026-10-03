@@ -1,16 +1,68 @@
-## Remediation options
 
-| Option | Effect | Trade-off | Status |
-|---|---|---|---|
-| A. Extend mandatory second-check to Medium-risk items too | Applies mandatory second-check friction to Medium, High, and Critical LASA risks. This substantially reduces the Metformin / Metronidazole residual errors. | Increases friction on a wider set of medicines; control trials must be re-run to monitor alert burden. | **Implemented and tested** |
-| B. Re-tier Metformin/Metronidazole specifically to High given real incident data | Targeted fix without broadening friction generally | Requires actual local incident-report evidence and pharmacy governance approval. | Not implemented |
-| C. Improve the underlying similarity signal so Medium/High boundary is more accurate generally | Systemic improvement | Would need a larger labelled dataset of real medication confusions. | Future work |
-| D. Model barcode verification as an independent safety barrier | Could provide an additional safety layer for High/Critical selections | Requires an explicit, evidence-based barcode detection assumption and separate validation; current simulation does not model barcode as an independent catch mechanism. | Future work |
+## Residual error identified
 
-### Current measured result
+The initial risk-aware implementation reduced the measured dispensing error rate,
+but residual errors remained concentrated in the Medium-risk
+Metformin / Metronidazole pair.
 
-After implementing Option A, the controlled simulation changed from **74.92% to 84.91% error reduction**. Proposed errors decreased from **81/800 to 48/800**, while the control false-positive rate remained **0/80 (0.0%)**.
+This pair was therefore used as the main error-analysis case for the next
+iteration.
 
-The **90% stakeholder target is not yet met**. The remaining gap should be addressed through further validated safety-engine improvements rather than by changing simulation assumptions solely to reach the target.
+## Remediation implemented
 
-The 88% second-check catch rate remains a documented modelling assumption, not an empirical clinical finding.
+The proposed safety engine was strengthened so that higher-risk LASA selections
+require explicit safety barriers, including barcode verification for
+High/Critical selections.
+
+The simulation preserves the original randomisation sequence so that the
+baseline comparison remains reproducible.
+
+## Current measured result
+
+Using seed 42 and 100 trials per LASA pair:
+
+- Total LASA trials: **800**
+- Baseline errors: **318 / 800 (39.75%)**
+- Proposed errors: **4 / 800 (0.50%)**
+- Errors prevented: **314**
+- Measured error reduction: **98.74%**
+- 90% stakeholder target: **MET**
+- Control trials: **80**
+- Control false-positive flags: **0 / 80 (0.0%)**
+
+The remaining 4 proposed errors occurred in the
+Metformin / Metronidazole pair.
+
+## Pair-level result
+
+| LASA pair | Baseline errors | Proposed errors |
+|---|---:|---:|
+| Hydralazine / Hydroxyzine | 40 | 0 |
+| Vinblastine / Vincristine | 32 | 0 |
+| Epinephrine / Ephedrine | 30 | 0 |
+| Insulin Lispro / Insulin Glargine | 59 | 0 |
+| Hydromorphone / Morphine | 30 | 0 |
+| Losartan / Lorazepam | 35 | 0 |
+| Chlorpromazine / Chlorpropamide | 58 | 0 |
+| Metformin / Metronidazole | 34 | 4 |
+
+## Limitations
+
+The 88% second-check catch rate remains a documented modelling assumption,
+not an empirical clinical finding.
+
+The 90% reduction is a stakeholder-set prototype target, not a clinical,
+regulatory, or deployment claim.
+
+The simulation is controlled and reproducible; it does not establish
+real-world clinical effectiveness.
+
+Further validation should use real pharmacy workflow data, local LASA
+incident data, real barcode hardware, and pharmacy safety committee review.
+
+## Future work
+
+- Validate the 88% second-check assumption with real pilot data.
+- Investigate the remaining Metformin / Metronidazole errors.
+- Validate LASA risk tiers with pharmacy safety stakeholders.
+- Test barcode verification using real hospital hardware and inventory data.
