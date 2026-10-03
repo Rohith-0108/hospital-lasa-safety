@@ -5,12 +5,12 @@
   "target_error_reduction": 0.9,
   "total_trials": 800,
   "baseline_errors": 318,
-  "proposed_errors": 48,
+  "proposed_errors": 4,
   "baseline_error_rate": 0.3975,
-  "proposed_error_rate": 0.06,
-  "errors_prevented": 270,
-  "measured_percent_reduction": 0.8491,
-  "target_met": false,
+  "proposed_error_rate": 0.005,
+  "errors_prevented": 314,
+  "measured_percent_reduction": 0.9874,
+  "target_met": true,
   "control_trials": 80,
   "control_false_positive_flags": 0,
   "control_false_positive_rate": 0.0,
@@ -18,37 +18,37 @@
     "Hydralazine / Hydroxyzine": {
       "trials": 100,
       "baseline_errors": 40,
-      "proposed_errors": 4
+      "proposed_errors": 0
     },
     "Vinblastine / Vincristine": {
       "trials": 100,
       "baseline_errors": 32,
-      "proposed_errors": 7
+      "proposed_errors": 0
     },
     "Epinephrine / Ephedrine": {
       "trials": 100,
       "baseline_errors": 30,
-      "proposed_errors": 3
+      "proposed_errors": 0
     },
     "Insulin Lispro / Insulin Glargine": {
       "trials": 100,
       "baseline_errors": 59,
-      "proposed_errors": 8
+      "proposed_errors": 0
     },
     "Hydromorphone / Morphine": {
       "trials": 100,
       "baseline_errors": 30,
-      "proposed_errors": 9
+      "proposed_errors": 0
     },
     "Losartan / Lorazepam": {
       "trials": 100,
       "baseline_errors": 35,
-      "proposed_errors": 5
+      "proposed_errors": 0
     },
     "Chlorpromazine / Chlorpropamide": {
       "trials": 100,
       "baseline_errors": 58,
-      "proposed_errors": 8
+      "proposed_errors": 0
     },
     "Metformin / Metronidazole": {
       "trials": 100,

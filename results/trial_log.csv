@@ -1,801 +1,801 @@
-pair,intended,typed_input,baseline_error,proposed_flagged,proposed_error
-Hydralazine / Hydroxyzine,Hydralazine,Hyd,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxyzine,False,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxy,False,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hyd,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxy,False,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydral,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hyd,True,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydralazine,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydralazine,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hyd,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxazine,False,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydro,False,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hyd,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydro,False,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydra,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxyzine,False,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydrala,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxy,False,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydralazine,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydro,False,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydralazine,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydr,True,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydralazine,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,True
-Hydralazine / Hydroxyzine,Hydralazine,Hydraxazine,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydrox,False,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxyzine,False,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxazine,False,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydr,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hyd,True,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydralazine,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydrox,False,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydral,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydrox,False,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydrala,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxyzine,False,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hyd,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxy,False,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydralazine,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydraxyzine,False,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydralazine,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hyd,True,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydr,True,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,True
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxyzine,False,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydral,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,True
-Hydralazine / Hydroxyzine,Hydralazine,Hydrolazine,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hyd,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxyzine,False,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydrala,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydr,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxyzine,False,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydralyzine,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxyzine,False,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydrala,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydr,True,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,True
-Hydralazine / Hydroxyzine,Hydralazine,Hydralazine,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydro,False,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydr,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxy,False,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydr,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxazine,False,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydrox,False,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hyd,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hyd,True,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydralazine,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydral,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,False
-Hydralazine / Hydroxyzine,Hydralazine,Hydralazine,False,True,False
-Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxy,False,True,False
-Vinblastine / Vincristine,Vinblastine,Vincristine,True,True,False
-Vinblastine / Vincristine,Vincristine,Vin,True,True,True
-Vinblastine / Vincristine,Vinblastine,Vinclastine,False,True,False
-Vinblastine / Vincristine,Vincristine,Vinc,False,True,False
-Vinblastine / Vincristine,Vinblastine,Vinblastine,False,True,False
-Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,False
-Vinblastine / Vincristine,Vinblastine,Vinbla,False,True,False
-Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,False
-Vinblastine / Vincristine,Vinblastine,Vinblastine,False,True,False
-Vinblastine / Vincristine,Vincristine,Vincri,False,True,False
-Vinblastine / Vincristine,Vinblastine,Vincristine,True,True,False
-Vinblastine / Vincristine,Vincristine,Vincristine,False,True,False
-Vinblastine / Vincristine,Vinblastine,Vinblastine,False,True,False
-Vinblastine / Vincristine,Vincristine,Vincristine,False,True,False
-Vinblastine / Vincristine,Vinblastine,Vincristine,True,True,False
-Vinblastine / Vincristine,Vincristine,Vincristine,False,True,False
-Vinblastine / Vincristine,Vinblastine,Vincristine,True,True,True
-Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,False
-Vinblastine / Vincristine,Vinblastine,Vinb,False,True,False
-Vinblastine / Vincristine,Vincristine,Vincris,False,True,False
-Vinblastine / Vincristine,Vinblastine,Vincristine,True,True,False
-Vinblastine / Vincristine,Vincristine,Vincri,False,True,False
-Vinblastine / Vincristine,Vinblastine,Vinblas,False,True,False
-Vinblastine / Vincristine,Vincristine,Vincr,False,True,False
-Vinblastine / Vincristine,Vinblastine,Vincristine,True,True,False
-Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,False
-Vinblastine / Vincristine,Vinblastine,Vinbl,False,True,False
-Vinblastine / Vincristine,Vincristine,Vin,True,True,False
-Vinblastine / Vincristine,Vinblastine,Vinblas,False,True,False
-Vinblastine / Vincristine,Vincristine,Vincristine,False,True,False
-Vinblastine / Vincristine,Vinblastine,Vinblas,False,True,False
-Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,True
-Vinblastine / Vincristine,Vinblastine,Vinclastine,False,True,False
-Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,False
-Vinblastine / Vincristine,Vinblastine,Vinblastine,False,True,False
-Vinblastine / Vincristine,Vincristine,Vincristine,False,True,False
-Vinblastine / Vincristine,Vinblastine,Vinblas,False,True,False
-Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,False
-Vinblastine / Vincristine,Vinblastine,Vinblastine,False,True,False
-Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,True
-Vinblastine / Vincristine,Vinblastine,Vinblastine,False,True,False
-Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,False
-Vinblastine / Vincristine,Vinblastine,Vinclastine,False,True,False
-Vinblastine / Vincristine,Vincristine,Vincristine,False,True,False
-Vinblastine / Vincristine,Vinblastine,Vin,False,True,False
-Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,False
-Vinblastine / Vincristine,Vinblastine,Vincristine,True,True,False
-Vinblastine / Vincristine,Vincristine,Vincristine,False,True,False
-Vinblastine / Vincristine,Vinblastine,Vinblastine,False,True,False
-Vinblastine / Vincristine,Vincristine,Vincristine,False,True,False
-Vinblastine / Vincristine,Vinblastine,Vinblastine,False,True,False
-Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,False
-Vinblastine / Vincristine,Vinblastine,Vinblastine,False,True,False
-Vinblastine / Vincristine,Vincristine,Vincr,False,True,False
-Vinblastine / Vincristine,Vinblastine,Vinb,False,True,False
-Vinblastine / Vincristine,Vincristine,Vin,True,True,False
-Vinblastine / Vincristine,Vinblastine,Vinblastine,False,True,False
-Vinblastine / Vincristine,Vincristine,Vinbristine,False,True,False
-Vinblastine / Vincristine,Vinblastine,Vinbl,False,True,False
-Vinblastine / Vincristine,Vincristine,Vincristine,False,True,False
-Vinblastine / Vincristine,Vinblastine,Vinblastine,False,True,False
-Vinblastine / Vincristine,Vincristine,Vinbristine,False,True,False
-Vinblastine / Vincristine,Vinblastine,Vinblastine,False,True,False
-Vinblastine / Vincristine,Vincristine,Vincristine,False,True,False
-Vinblastine / Vincristine,Vinblastine,Vincristine,True,True,True
-Vinblastine / Vincristine,Vincristine,Vincristine,False,True,False
-Vinblastine / Vincristine,Vinblastine,Vinclastine,False,True,False
-Vinblastine / Vincristine,Vincristine,Vincristine,False,True,False
-Vinblastine / Vincristine,Vinblastine,Vin,False,True,False
-Vinblastine / Vincristine,Vincristine,Vinbristine,False,True,False
-Vinblastine / Vincristine,Vinblastine,Vinblistine,False,True,False
-Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,False
-Vinblastine / Vincristine,Vinblastine,Vincristine,True,True,False
-Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,False
-Vinblastine / Vincristine,Vinblastine,Vinbrastine,False,True,False
-Vinblastine / Vincristine,Vincristine,Vincris,False,True,False
-Vinblastine / Vincristine,Vinblastine,Vinblas,False,True,False
-Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,False
-Vinblastine / Vincristine,Vinblastine,Vinbrastine,False,True,False
-Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,True
-Vinblastine / Vincristine,Vinblastine,Vincristine,True,True,False
-Vinblastine / Vincristine,Vincristine,Vincr,False,True,False
-Vinblastine / Vincristine,Vinblastine,Vinblas,False,True,False
-Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,True
-Vinblastine / Vincristine,Vinblastine,Vincristine,True,True,False
-Vinblastine / Vincristine,Vincristine,Vincris,False,True,False
-Vinblastine / Vincristine,Vinblastine,Vinblastine,False,True,False
-Vinblastine / Vincristine,Vincristine,Vinc,False,True,False
-Vinblastine / Vincristine,Vinblastine,Vin,False,True,False
-Vinblastine / Vincristine,Vincristine,Vincrastine,False,True,False
-Vinblastine / Vincristine,Vinblastine,Vin,False,True,False
-Vinblastine / Vincristine,Vincristine,Vinclistine,False,True,False
-Vinblastine / Vincristine,Vinblastine,Vinbla,False,True,False
-Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,False
-Vinblastine / Vincristine,Vinblastine,Vinb,False,True,False
-Vinblastine / Vincristine,Vincristine,Vincri,False,True,False
-Vinblastine / Vincristine,Vinblastine,Vinb,False,True,False
-Vinblastine / Vincristine,Vincristine,Vincr,False,True,False
-Vinblastine / Vincristine,Vinblastine,Vin,False,True,False
-Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,False
-Epinephrine / Ephedrine,Epinephrine,Epinephrine,False,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephedr,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Epin,False,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephe,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Epine,False,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephedri,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,False
-Epinephrine / Ephedrine,Ephedrine,Epheerine,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,False
-Epinephrine / Ephedrine,Ephedrine,Epinephrine,True,True,False
-Epinephrine / Ephedrine,Epinephrine,Epi,False,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephedri,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephe,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephedrine,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Epieephrine,False,True,False
-Epinephrine / Ephedrine,Ephedrine,Epinephrine,True,True,True
-Epinephrine / Ephedrine,Epinephrine,Epi,False,True,False
-Epinephrine / Ephedrine,Ephedrine,Eph,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Epinephrine,False,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephedri,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Epinep,False,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephedri,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Epineph,False,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephe,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Epinephnine,False,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephe,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Epindphrine,False,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephedrini,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Epin,False,True,False
-Epinephrine / Ephedrine,Ephedrine,Epinephrine,True,True,False
-Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,False
-Epinephrine / Ephedrine,Ephedrine,Epinephrine,True,True,False
-Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephe,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephedr,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephedri,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Epinephrine,False,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephedrhne,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Epine,False,True,False
-Epinephrine / Ephedrine,Ephedrine,Epinephrine,True,True,False
-Epinephrine / Ephedrine,Epinephrine,Epinepirine,False,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephedri,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Epieephrine,False,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephed,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Epi,False,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephedr,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Epinephnine,False,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephedrini,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,False
-Epinephrine / Ephedrine,Ephedrine,Eph,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Epinep,False,True,False
-Epinephrine / Ephedrine,Ephedrine,Epinephrine,True,True,False
-Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,False
-Epinephrine / Ephedrine,Ephedrine,Epinephrine,True,True,False
-Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,True
-Epinephrine / Ephedrine,Ephedrine,Eph,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Epinephrine,False,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephedpine,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephedrine,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Epieephrine,False,True,False
-Epinephrine / Ephedrine,Ephedrine,Epinephrine,True,True,False
-Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephedri,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Epinephnine,False,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephed,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephedrine,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Ephnephrine,False,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephedrine,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Epine,False,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephedr,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Epin,False,True,False
-Epinephrine / Ephedrine,Ephedrine,Epinephrine,True,True,False
-Epinephrine / Ephedrine,Epinephrine,Epi,False,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephed,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Epinephrine,False,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephedrine,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephedri,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Epi,False,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephedrire,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,True
-Epinephrine / Ephedrine,Ephedrine,Ephedr,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Epinepirine,False,True,False
-Epinephrine / Ephedrine,Ephedrine,Epinephrine,True,True,False
-Epinephrine / Ephedrine,Epinephrine,Epineph,False,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephedrini,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Epinephnine,False,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephedri,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephedrine,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,False
-Epinephrine / Ephedrine,Ephedrine,Ephedrhne,False,True,False
-Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,False
-Epinephrine / Ephedrine,Ephedrine,Epinephrine,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insul,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,True
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Lispro,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin,False,True,True
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insu,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insuli,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Ins,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,True
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insul,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Llargine,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Glsrgine,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Glargine,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Llspro,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insul,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,True
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insuli,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insul,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,True
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Ins,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insul,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insuli,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insuli,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Giargine,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Lispro,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Ins,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Glargine,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insul,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insu,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insu,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insul,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insu,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insu,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Glargine,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insul,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insuli,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insul,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insuli,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insuli,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Llargine,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Glargine,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Lispro,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insuli,False,True,True
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insuli,False,True,True
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insuli,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Lispro,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insuli,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Lispri,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Glargine,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insul,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Lispri,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Ins,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insuli,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insuli,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Ins,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insul,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insuli,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Llspro,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Glargine,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insu,False,True,True
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Lispro,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Glargine,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insul,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insul,False,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insuli,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin,True,True,False
-Insulin Lispro / Insulin Glargine,Insulin Glargine,Insu,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,False
-Hydromorphone / Morphine,Morphine,Morphin,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,False
-Hydromorphone / Morphine,Morphine,Morphinr,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Hydromoephone,False,True,False
-Hydromorphone / Morphine,Morphine,Morph,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Hydromnrphone,False,True,False
-Hydromorphone / Morphine,Morphine,Morph,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Hydpomorphone,False,True,False
-Hydromorphone / Morphine,Morphine,Morp,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Hydro,False,True,False
-Hydromorphone / Morphine,Morphine,Morphioe,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Hydr,False,True,False
-Hydromorphone / Morphine,Morphine,Mor,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Hydroiorphone,False,True,False
-Hydromorphone / Morphine,Morphine,Morphinr,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,True
-Hydromorphone / Morphine,Morphine,Hydromorphone,True,True,False
-Hydromorphone / Morphine,Hydromorphone,Hyrromorphone,False,True,False
-Hydromorphone / Morphine,Morphine,Hydromorphone,True,True,False
-Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,False
-Hydromorphone / Morphine,Morphine,Mor,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Hydromorphone,False,True,False
-Hydromorphone / Morphine,Morphine,Morph,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Hydromoephone,False,True,False
-Hydromorphone / Morphine,Morphine,Horphine,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Hydr,False,True,False
-Hydromorphone / Morphine,Morphine,Morph,False,True,True
-Hydromorphone / Morphine,Hydromorphone,Hydromnrphone,False,True,False
-Hydromorphone / Morphine,Morphine,Myrphine,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Hydro,False,True,False
-Hydromorphone / Morphine,Morphine,Horphine,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,False
-Hydromorphone / Morphine,Morphine,Morphi,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,False
-Hydromorphone / Morphine,Morphine,Morp,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,False
-Hydromorphone / Morphine,Morphine,Morp,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Hydr,False,True,False
-Hydromorphone / Morphine,Morphine,Morph,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Hydrom,False,True,False
-Hydromorphone / Morphine,Morphine,Modphine,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,True
-Hydromorphone / Morphine,Morphine,Morpoine,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Hydrom,False,True,False
-Hydromorphone / Morphine,Morphine,Morphi,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Hydpomorphone,False,True,False
-Hydromorphone / Morphine,Morphine,Morphinr,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,False
-Hydromorphone / Morphine,Morphine,Morph,False,True,True
-Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,True
-Hydromorphone / Morphine,Morphine,Morph,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Hydromorphone,False,True,False
-Hydromorphone / Morphine,Morphine,Horphine,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Hydromorphone,False,True,False
-Hydromorphone / Morphine,Morphine,Morph,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,False
-Hydromorphone / Morphine,Morphine,Hydromorphone,True,True,False
-Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,False
-Hydromorphone / Morphine,Morphine,Modphine,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Hyd,False,True,False
-Hydromorphone / Morphine,Morphine,Hydromorphone,True,True,False
-Hydromorphone / Morphine,Hydromorphone,Hydr,False,True,False
-Hydromorphone / Morphine,Morphine,Hydromorphone,True,True,False
-Hydromorphone / Morphine,Hydromorphone,Hyrromorphone,False,True,False
-Hydromorphone / Morphine,Morphine,Hydromorphone,True,True,False
-Hydromorphone / Morphine,Hydromorphone,Hydroiorphone,False,True,False
-Hydromorphone / Morphine,Morphine,Morph,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,False
-Hydromorphone / Morphine,Morphine,Morph,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,False
-Hydromorphone / Morphine,Morphine,Modphine,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Hydpomorphone,False,True,False
-Hydromorphone / Morphine,Morphine,Morphioe,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Hydromorphone,False,True,False
-Hydromorphone / Morphine,Morphine,Mor,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,False
-Hydromorphone / Morphine,Morphine,Morph,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Hydroiorphone,False,True,False
-Hydromorphone / Morphine,Morphine,Hydromorphone,True,True,False
-Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,True
-Hydromorphone / Morphine,Morphine,Morphin,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,False
-Hydromorphone / Morphine,Morphine,Morpoine,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Hyd,False,True,False
-Hydromorphone / Morphine,Morphine,Hydromorphone,True,True,True
-Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,False
-Hydromorphone / Morphine,Morphine,Hydromorphone,True,True,True
-Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,False
-Hydromorphone / Morphine,Morphine,Morphin,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Hydr,False,True,False
-Hydromorphone / Morphine,Morphine,Myrphine,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Hydromorphone,False,True,False
-Hydromorphone / Morphine,Morphine,Morph,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Hydrom,False,True,False
-Hydromorphone / Morphine,Morphine,Morp,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,False
-Hydromorphone / Morphine,Morphine,Morph,False,True,False
-Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,True
-Hydromorphone / Morphine,Morphine,Morphinr,False,True,False
-Losartan / Lorazepam,Losartan,Lorazepam,True,True,False
-Losartan / Lorazepam,Lorazepam,Lor,False,True,False
-Losartan / Lorazepam,Losartan,Lorazepam,True,True,False
-Losartan / Lorazepam,Lorazepam,Lorazepam,False,True,False
-Losartan / Lorazepam,Losartan,Lorazepam,True,True,False
-Losartan / Lorazepam,Lorazepam,Losartan,True,True,False
-Losartan / Lorazepam,Losartan,Losarean,False,True,False
-Losartan / Lorazepam,Lorazepam,Lorazepam,False,True,False
-Losartan / Lorazepam,Losartan,Lorazepam,True,True,True
-Losartan / Lorazepam,Lorazepam,Lorazepam,False,True,False
-Losartan / Lorazepam,Losartan,Lorazepam,True,True,False
-Losartan / Lorazepam,Lorazepam,Lor,False,True,False
-Losartan / Lorazepam,Losartan,Lorazepam,True,True,False
-Losartan / Lorazepam,Lorazepam,Loraztpam,False,True,False
-Losartan / Lorazepam,Losartan,Lorazepam,True,True,False
-Losartan / Lorazepam,Lorazepam,Losartan,True,True,False
-Losartan / Lorazepam,Losartan,Lorazepam,True,True,False
-Losartan / Lorazepam,Lorazepam,Loraz,False,True,False
-Losartan / Lorazepam,Losartan,Los,False,True,False
-Losartan / Lorazepam,Lorazepam,Lora,False,True,False
-Losartan / Lorazepam,Losartan,Losartan,False,True,False
-Losartan / Lorazepam,Lorazepam,Lorazepam,False,True,False
-Losartan / Lorazepam,Losartan,Lorazepam,True,True,False
-Losartan / Lorazepam,Lorazepam,Losartan,True,True,True
-Losartan / Lorazepam,Losartan,Losartpn,False,True,False
-Losartan / Lorazepam,Lorazepam,Loraze,False,True,False
-Losartan / Lorazepam,Losartan,Losartaa,False,True,False
-Losartan / Lorazepam,Lorazepam,Losartan,True,True,False
-Losartan / Lorazepam,Losartan,Los,False,True,False
-Losartan / Lorazepam,Lorazepam,Losartan,True,True,False
-Losartan / Lorazepam,Losartan,Losar,False,True,False
-Losartan / Lorazepam,Lorazepam,Lorazep,False,True,False
-Losartan / Lorazepam,Losartan,Losart,False,True,False
-Losartan / Lorazepam,Lorazepam,Loraze,False,True,False
-Losartan / Lorazepam,Losartan,Lorazepam,True,True,False
-Losartan / Lorazepam,Lorazepam,Lorazepam,False,True,False
-Losartan / Lorazepam,Losartan,Losartan,False,True,False
-Losartan / Lorazepam,Lorazepam,Lora,False,True,False
-Losartan / Lorazepam,Losartan,Losart,False,True,False
-Losartan / Lorazepam,Lorazepam,Lor,False,True,False
-Losartan / Lorazepam,Losartan,Lorazepam,True,True,False
-Losartan / Lorazepam,Lorazepam,Losartan,True,True,True
-Losartan / Lorazepam,Losartan,Losart,False,True,False
-Losartan / Lorazepam,Lorazepam,Losartan,True,True,False
-Losartan / Lorazepam,Losartan,Lorazepam,True,True,False
-Losartan / Lorazepam,Lorazepam,Losazepam,False,True,False
-Losartan / Lorazepam,Losartan,Losarta,False,True,False
-Losartan / Lorazepam,Lorazepam,Lorazepam,False,True,False
-Losartan / Lorazepam,Losartan,Lorazepam,True,True,False
-Losartan / Lorazepam,Lorazepam,Loraze,False,True,False
-Losartan / Lorazepam,Losartan,Losartan,False,True,False
-Losartan / Lorazepam,Lorazepam,Lorarepam,False,True,False
-Losartan / Lorazepam,Losartan,Losarta,False,True,False
-Losartan / Lorazepam,Lorazepam,Lora,False,True,False
-Losartan / Lorazepam,Losartan,Losa,False,True,False
-Losartan / Lorazepam,Lorazepam,Loraztpam,False,True,False
-Losartan / Lorazepam,Losartan,Losarean,False,True,False
-Losartan / Lorazepam,Lorazepam,Losartan,True,True,False
-Losartan / Lorazepam,Losartan,Lorazepam,True,True,False
-Losartan / Lorazepam,Lorazepam,Lorazep,False,True,False
-Losartan / Lorazepam,Losartan,Losarta,False,True,False
-Losartan / Lorazepam,Lorazepam,Losartan,True,True,True
-Losartan / Lorazepam,Losartan,Losaztan,False,True,False
-Losartan / Lorazepam,Lorazepam,Losartan,True,True,False
-Losartan / Lorazepam,Losartan,Losarean,False,True,False
-Losartan / Lorazepam,Lorazepam,Lora,False,True,False
-Losartan / Lorazepam,Losartan,Losartpn,False,True,False
-Losartan / Lorazepam,Lorazepam,Losartan,True,True,False
-Losartan / Lorazepam,Losartan,Losartan,False,True,False
-Losartan / Lorazepam,Lorazepam,Lorazepam,False,True,False
-Losartan / Lorazepam,Losartan,Losart,False,True,False
-Losartan / Lorazepam,Lorazepam,Losartan,True,True,False
-Losartan / Lorazepam,Losartan,Losartan,False,True,False
-Losartan / Lorazepam,Lorazepam,Losazepam,False,True,False
-Losartan / Lorazepam,Losartan,Lorazepam,True,True,False
-Losartan / Lorazepam,Lorazepam,Loraz,False,True,False
-Losartan / Lorazepam,Losartan,Losart,False,True,False
-Losartan / Lorazepam,Lorazepam,Loraze,False,True,False
-Losartan / Lorazepam,Losartan,Losa,False,True,False
-Losartan / Lorazepam,Lorazepam,Lorazepam,False,True,False
-Losartan / Lorazepam,Losartan,Lorazepam,True,True,False
-Losartan / Lorazepam,Lorazepam,Lorazep,False,True,False
-Losartan / Lorazepam,Losartan,Losar,False,True,False
-Losartan / Lorazepam,Lorazepam,Losartan,True,True,False
-Losartan / Lorazepam,Losartan,Los,False,True,False
-Losartan / Lorazepam,Lorazepam,Losartan,True,True,True
-Losartan / Lorazepam,Losartan,Losaztan,False,True,False
-Losartan / Lorazepam,Lorazepam,Losartan,True,True,False
-Losartan / Lorazepam,Losartan,Losart,False,True,False
-Losartan / Lorazepam,Lorazepam,Losartan,True,True,False
-Losartan / Lorazepam,Losartan,Losarean,False,True,False
-Losartan / Lorazepam,Lorazepam,Losartan,True,True,False
-Losartan / Lorazepam,Losartan,Lorazepam,True,True,False
-Losartan / Lorazepam,Lorazepam,Loraztpam,False,True,False
-Losartan / Lorazepam,Losartan,Losarta,False,True,False
-Losartan / Lorazepam,Lorazepam,Loraze,False,True,False
-Losartan / Lorazepam,Losartan,Lorazepam,True,True,False
-Losartan / Lorazepam,Lorazepam,Losazepam,False,True,False
-Losartan / Lorazepam,Losartan,Losartaa,False,True,False
-Losartan / Lorazepam,Lorazepam,Loraztpam,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorp,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpropamide,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpropamide,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlo,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpropazide,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,True
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorp,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpromazine,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpr,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpromazine,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpropazide,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlor,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlor,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlor,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpromazine,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpr,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chl,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpr,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,True
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlo,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropazine,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlo,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpromazine,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlor,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorp,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpr,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpropamide,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpropamide,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpromazine,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlo,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpromazine,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlor,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpr,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chl,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlo,True,True,True
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,True
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromamide,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpromazine,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromamide,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpropamide,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlo,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpromazide,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpropamide,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorp,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlo,True,True,True
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorp,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpromazide,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlo,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpromazine,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlor,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorp,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpropamide,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpropamide,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlor,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chl,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chl,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,True
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpromazine,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpropamide,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpromazine,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,True
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chl,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,True
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlo,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpr,False,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpr,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,False
-Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,False
-Metformin / Metronidazole,Metformin,Metform,False,True,False
-Metformin / Metronidazole,Metronidazole,Met,True,True,False
-Metformin / Metronidazole,Metformin,Metform,False,True,False
-Metformin / Metronidazole,Metronidazole,Metformin,True,True,False
-Metformin / Metronidazole,Metformin,Metronidazole,True,True,False
-Metformin / Metronidazole,Metronidazole,Metroni,False,True,False
-Metformin / Metronidazole,Metformin,Metform,False,True,False
-Metformin / Metronidazole,Metronidazole,Met,True,True,False
-Metformin / Metronidazole,Metformin,Metform,False,True,False
-Metformin / Metronidazole,Metronidazole,Metroni,False,True,False
-Metformin / Metronidazole,Metformin,Metfor,False,True,False
-Metformin / Metronidazole,Metronidazole,Metronidazole,False,True,False
-Metformin / Metronidazole,Metformin,Metfo,False,True,False
-Metformin / Metronidazole,Metronidazole,Metformin,True,True,False
-Metformin / Metronidazole,Metformin,Metfonmin,False,True,False
-Metformin / Metronidazole,Metronidazole,Metformin,True,True,False
-Metformin / Metronidazole,Metformin,Metronidazole,True,True,False
-Metformin / Metronidazole,Metronidazole,Metronidazole,False,True,False
-Metformin / Metronidazole,Metformin,Metronidazole,True,True,False
-Metformin / Metronidazole,Metronidazole,Metronidazole,False,True,False
-Metformin / Metronidazole,Metformin,Metformdn,False,True,False
-Metformin / Metronidazole,Metronidazole,Metroniiazole,False,True,False
-Metformin / Metronidazole,Metformin,Metf,False,True,False
-Metformin / Metronidazole,Metronidazole,Metformin,True,True,False
-Metformin / Metronidazole,Metformin,Metfo,False,True,False
-Metformin / Metronidazole,Metronidazole,Metformin,True,True,False
-Metformin / Metronidazole,Metformin,Metfonmin,False,True,False
-Metformin / Metronidazole,Metronidazole,Metronidnzole,False,True,False
-Metformin / Metronidazole,Metformin,Metform,False,True,False
-Metformin / Metronidazole,Metronidazole,Met,True,True,False
-Metformin / Metronidazole,Metformin,Metronidazole,True,True,False
-Metformin / Metronidazole,Metronidazole,Metronidazole,False,True,False
-Metformin / Metronidazole,Metformin,Metronidazole,True,True,False
-Metformin / Metronidazole,Metronidazole,Metron,False,True,False
-Metformin / Metronidazole,Metformin,Metforiin,False,True,False
-Metformin / Metronidazole,Metronidazole,Metformin,True,True,False
-Metformin / Metronidazole,Metformin,Metfo,False,True,False
-Metformin / Metronidazole,Metronidazole,Metronidnzole,False,True,False
-Metformin / Metronidazole,Metformin,Metronidazole,True,True,False
-Metformin / Metronidazole,Metronidazole,Metron,False,True,False
-Metformin / Metronidazole,Metformin,Metf,False,True,False
-Metformin / Metronidazole,Metronidazole,Metro,False,True,False
-Metformin / Metronidazole,Metformin,Metronidazole,True,True,False
-Metformin / Metronidazole,Metronidazole,Metformin,True,True,False
-Metformin / Metronidazole,Metformin,Metformin,False,True,False
-Metformin / Metronidazole,Metronidazole,Metro,False,True,False
-Metformin / Metronidazole,Metformin,Metfo,False,True,False
-Metformin / Metronidazole,Metronidazole,Metron,False,True,False
-Metformin / Metronidazole,Metformin,Metronidazole,True,True,True
-Metformin / Metronidazole,Metronidazole,Metronidazole,False,True,False
-Metformin / Metronidazole,Metformin,Metfor,False,True,False
-Metformin / Metronidazole,Metronidazole,Metr,False,True,False
-Metformin / Metronidazole,Metformin,Metformin,False,True,False
-Metformin / Metronidazole,Metronidazole,Metronidazole,False,True,False
-Metformin / Metronidazole,Metformin,Metformin,False,True,False
-Metformin / Metronidazole,Metronidazole,Metformin,True,True,False
-Metformin / Metronidazole,Metformin,Metfo,False,True,False
-Metformin / Metronidazole,Metronidazole,Metroni,False,True,False
-Metformin / Metronidazole,Metformin,Metronidazole,True,True,False
-Metformin / Metronidazole,Metronidazole,Metro,False,True,False
-Metformin / Metronidazole,Metformin,Met,False,True,False
-Metformin / Metronidazole,Metronidazole,Metroni,False,True,False
-Metformin / Metronidazole,Metformin,Metfo,False,True,False
-Metformin / Metronidazole,Metronidazole,Metr,False,True,False
-Metformin / Metronidazole,Metformin,Metformin,False,True,False
-Metformin / Metronidazole,Metronidazole,Metroniiazole,False,True,False
-Metformin / Metronidazole,Metformin,Metform,False,True,False
-Metformin / Metronidazole,Metronidazole,Metformin,True,True,False
-Metformin / Metronidazole,Metformin,Metrormin,False,True,False
-Metformin / Metronidazole,Metronidazole,Metronidazole,False,True,False
-Metformin / Metronidazole,Metformin,Metfor,False,True,False
-Metformin / Metronidazole,Metronidazole,Metformin,True,True,False
-Metformin / Metronidazole,Metformin,Metronidazole,True,True,False
-Metformin / Metronidazole,Metronidazole,Metronidazole,False,True,False
-Metformin / Metronidazole,Metformin,Metfonmin,False,True,False
-Metformin / Metronidazole,Metronidazole,Met,True,True,False
-Metformin / Metronidazole,Metformin,Metronidazole,True,True,False
-Metformin / Metronidazole,Metronidazole,Metformin,True,True,False
-Metformin / Metronidazole,Metformin,Metformin,False,True,False
-Metformin / Metronidazole,Metronidazole,Metronidnzole,False,True,False
-Metformin / Metronidazole,Metformin,Metronidazole,True,True,True
-Metformin / Metronidazole,Metronidazole,Metfonidazole,False,True,False
-Metformin / Metronidazole,Metformin,Metformin,False,True,False
-Metformin / Metronidazole,Metronidazole,Metroni,False,True,False
-Metformin / Metronidazole,Metformin,Metform,False,True,False
-Metformin / Metronidazole,Metronidazole,Metformin,True,True,True
-Metformin / Metronidazole,Metformin,Metronidazole,True,True,False
-Metformin / Metronidazole,Metronidazole,Metroniiazole,False,True,False
-Metformin / Metronidazole,Metformin,Metfor,False,True,False
-Metformin / Metronidazole,Metronidazole,Metronidazole,False,True,False
-Metformin / Metronidazole,Metformin,Metronidazole,True,True,False
-Metformin / Metronidazole,Metronidazole,Metformin,True,True,False
-Metformin / Metronidazole,Metformin,Metf,False,True,False
-Metformin / Metronidazole,Metronidazole,Metronidazole,False,True,False
-Metformin / Metronidazole,Metformin,Metform,False,True,False
-Metformin / Metronidazole,Metronidazole,Metformin,True,True,True
-Metformin / Metronidazole,Metformin,Met,False,True,False
-Metformin / Metronidazole,Metronidazole,Metronidnzole,False,True,False
-Metformin / Metronidazole,Metformin,Metronidazole,True,True,False
-Metformin / Metronidazole,Metronidazole,Metformin,True,True,False
+pair,intended,typed_input,baseline_error,proposed_flagged,barcode_required,barcode_passed,second_check_caught,proposed_error
+Hydralazine / Hydroxyzine,Hydralazine,Hyd,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxyzine,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxy,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hyd,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxy,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydral,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hyd,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydralazine,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydralazine,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hyd,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxazine,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydro,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hyd,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydro,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydra,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxyzine,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydrala,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxy,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydralazine,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydro,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydralazine,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydr,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydralazine,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydraxazine,False,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydrox,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxyzine,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxazine,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydr,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hyd,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydralazine,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydrox,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydral,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydrox,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydrala,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxyzine,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hyd,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxy,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydralazine,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydraxyzine,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydralazine,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hyd,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydr,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxyzine,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydral,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydrolazine,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hyd,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxyzine,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydrala,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydr,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxyzine,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydralyzine,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxyzine,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydrala,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydr,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydralazine,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydro,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydr,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxy,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydr,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxazine,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydroxyzine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydrox,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hyd,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hyd,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydralazine,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydral,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydralazine,True,True,True,False,,False
+Hydralazine / Hydroxyzine,Hydralazine,Hydralazine,False,True,True,,,False
+Hydralazine / Hydroxyzine,Hydroxyzine,Hydroxy,False,True,True,,,False
+Vinblastine / Vincristine,Vinblastine,Vincristine,True,True,True,False,,False
+Vinblastine / Vincristine,Vincristine,Vin,True,True,True,False,,False
+Vinblastine / Vincristine,Vinblastine,Vinclastine,False,True,True,False,,False
+Vinblastine / Vincristine,Vincristine,Vinc,False,True,True,,,False
+Vinblastine / Vincristine,Vinblastine,Vinblastine,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,True,False,,False
+Vinblastine / Vincristine,Vinblastine,Vinbla,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,True,False,,False
+Vinblastine / Vincristine,Vinblastine,Vinblastine,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vincri,False,True,True,,,False
+Vinblastine / Vincristine,Vinblastine,Vincristine,True,True,True,False,,False
+Vinblastine / Vincristine,Vincristine,Vincristine,False,True,True,,,False
+Vinblastine / Vincristine,Vinblastine,Vinblastine,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vincristine,False,True,True,,,False
+Vinblastine / Vincristine,Vinblastine,Vincristine,True,True,True,False,,False
+Vinblastine / Vincristine,Vincristine,Vincristine,False,True,True,,,False
+Vinblastine / Vincristine,Vinblastine,Vincristine,True,True,True,False,,False
+Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,True,False,,False
+Vinblastine / Vincristine,Vinblastine,Vinb,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vincris,False,True,True,,,False
+Vinblastine / Vincristine,Vinblastine,Vincristine,True,True,True,False,,False
+Vinblastine / Vincristine,Vincristine,Vincri,False,True,True,,,False
+Vinblastine / Vincristine,Vinblastine,Vinblas,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vincr,False,True,True,,,False
+Vinblastine / Vincristine,Vinblastine,Vincristine,True,True,True,False,,False
+Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,True,False,,False
+Vinblastine / Vincristine,Vinblastine,Vinbl,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vin,True,True,True,False,,False
+Vinblastine / Vincristine,Vinblastine,Vinblas,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vincristine,False,True,True,,,False
+Vinblastine / Vincristine,Vinblastine,Vinblas,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,True,False,,False
+Vinblastine / Vincristine,Vinblastine,Vinclastine,False,True,True,False,,False
+Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,True,False,,False
+Vinblastine / Vincristine,Vinblastine,Vinblastine,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vincristine,False,True,True,,,False
+Vinblastine / Vincristine,Vinblastine,Vinblas,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,True,False,,False
+Vinblastine / Vincristine,Vinblastine,Vinblastine,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,True,False,,False
+Vinblastine / Vincristine,Vinblastine,Vinblastine,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,True,False,,False
+Vinblastine / Vincristine,Vinblastine,Vinclastine,False,True,True,False,,False
+Vinblastine / Vincristine,Vincristine,Vincristine,False,True,True,,,False
+Vinblastine / Vincristine,Vinblastine,Vin,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,True,False,,False
+Vinblastine / Vincristine,Vinblastine,Vincristine,True,True,True,False,,False
+Vinblastine / Vincristine,Vincristine,Vincristine,False,True,True,,,False
+Vinblastine / Vincristine,Vinblastine,Vinblastine,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vincristine,False,True,True,,,False
+Vinblastine / Vincristine,Vinblastine,Vinblastine,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,True,False,,False
+Vinblastine / Vincristine,Vinblastine,Vinblastine,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vincr,False,True,True,,,False
+Vinblastine / Vincristine,Vinblastine,Vinb,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vin,True,True,True,False,,False
+Vinblastine / Vincristine,Vinblastine,Vinblastine,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vinbristine,False,True,True,False,,False
+Vinblastine / Vincristine,Vinblastine,Vinbl,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vincristine,False,True,True,,,False
+Vinblastine / Vincristine,Vinblastine,Vinblastine,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vinbristine,False,True,True,False,,False
+Vinblastine / Vincristine,Vinblastine,Vinblastine,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vincristine,False,True,True,,,False
+Vinblastine / Vincristine,Vinblastine,Vincristine,True,True,True,False,,False
+Vinblastine / Vincristine,Vincristine,Vincristine,False,True,True,,,False
+Vinblastine / Vincristine,Vinblastine,Vinclastine,False,True,True,False,,False
+Vinblastine / Vincristine,Vincristine,Vincristine,False,True,True,,,False
+Vinblastine / Vincristine,Vinblastine,Vin,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vinbristine,False,True,True,False,,False
+Vinblastine / Vincristine,Vinblastine,Vinblistine,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,True,False,,False
+Vinblastine / Vincristine,Vinblastine,Vincristine,True,True,True,False,,False
+Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,True,False,,False
+Vinblastine / Vincristine,Vinblastine,Vinbrastine,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vincris,False,True,True,,,False
+Vinblastine / Vincristine,Vinblastine,Vinblas,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,True,False,,False
+Vinblastine / Vincristine,Vinblastine,Vinbrastine,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,True,False,,False
+Vinblastine / Vincristine,Vinblastine,Vincristine,True,True,True,False,,False
+Vinblastine / Vincristine,Vincristine,Vincr,False,True,True,,,False
+Vinblastine / Vincristine,Vinblastine,Vinblas,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,True,False,,False
+Vinblastine / Vincristine,Vinblastine,Vincristine,True,True,True,False,,False
+Vinblastine / Vincristine,Vincristine,Vincris,False,True,True,,,False
+Vinblastine / Vincristine,Vinblastine,Vinblastine,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vinc,False,True,True,,,False
+Vinblastine / Vincristine,Vinblastine,Vin,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vincrastine,False,True,True,,,False
+Vinblastine / Vincristine,Vinblastine,Vin,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vinclistine,False,True,True,,,False
+Vinblastine / Vincristine,Vinblastine,Vinbla,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,True,False,,False
+Vinblastine / Vincristine,Vinblastine,Vinb,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vincri,False,True,True,,,False
+Vinblastine / Vincristine,Vinblastine,Vinb,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vincr,False,True,True,,,False
+Vinblastine / Vincristine,Vinblastine,Vin,False,True,True,,,False
+Vinblastine / Vincristine,Vincristine,Vinblastine,True,True,True,False,,False
+Epinephrine / Ephedrine,Epinephrine,Epinephrine,False,True,True,,,False
+Epinephrine / Ephedrine,Ephedrine,Ephedr,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Epin,False,True,True,,,False
+Epinephrine / Ephedrine,Ephedrine,Ephe,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Epine,False,True,True,,,False
+Epinephrine / Ephedrine,Ephedrine,Ephedri,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,True,False,,False
+Epinephrine / Ephedrine,Ephedrine,Epheerine,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,True,False,,False
+Epinephrine / Ephedrine,Ephedrine,Epinephrine,True,True,True,False,,False
+Epinephrine / Ephedrine,Epinephrine,Epi,False,True,True,,,False
+Epinephrine / Ephedrine,Ephedrine,Ephedri,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,True,False,,False
+Epinephrine / Ephedrine,Ephedrine,Ephe,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,True,False,,False
+Epinephrine / Ephedrine,Ephedrine,Ephedrine,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Epieephrine,False,True,True,,,False
+Epinephrine / Ephedrine,Ephedrine,Epinephrine,True,True,True,False,,False
+Epinephrine / Ephedrine,Epinephrine,Epi,False,True,True,,,False
+Epinephrine / Ephedrine,Ephedrine,Eph,False,True,True,False,,False
+Epinephrine / Ephedrine,Epinephrine,Epinephrine,False,True,True,,,False
+Epinephrine / Ephedrine,Ephedrine,Ephedri,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Epinep,False,True,True,,,False
+Epinephrine / Ephedrine,Ephedrine,Ephedri,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Epineph,False,True,True,,,False
+Epinephrine / Ephedrine,Ephedrine,Ephe,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Epinephnine,False,True,True,,,False
+Epinephrine / Ephedrine,Ephedrine,Ephe,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Epindphrine,False,True,True,,,False
+Epinephrine / Ephedrine,Ephedrine,Ephedrini,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Epin,False,True,True,,,False
+Epinephrine / Ephedrine,Ephedrine,Epinephrine,True,True,True,False,,False
+Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,True,False,,False
+Epinephrine / Ephedrine,Ephedrine,Epinephrine,True,True,True,False,,False
+Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,True,False,,False
+Epinephrine / Ephedrine,Ephedrine,Ephe,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,True,False,,False
+Epinephrine / Ephedrine,Ephedrine,Ephedr,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,True,False,,False
+Epinephrine / Ephedrine,Ephedrine,Ephedri,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Epinephrine,False,True,True,,,False
+Epinephrine / Ephedrine,Ephedrine,Ephedrhne,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Epine,False,True,True,,,False
+Epinephrine / Ephedrine,Ephedrine,Epinephrine,True,True,True,False,,False
+Epinephrine / Ephedrine,Epinephrine,Epinepirine,False,True,True,,,False
+Epinephrine / Ephedrine,Ephedrine,Ephedri,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Epieephrine,False,True,True,,,False
+Epinephrine / Ephedrine,Ephedrine,Ephed,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Epi,False,True,True,,,False
+Epinephrine / Ephedrine,Ephedrine,Ephedr,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Epinephnine,False,True,True,,,False
+Epinephrine / Ephedrine,Ephedrine,Ephedrini,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,True,False,,False
+Epinephrine / Ephedrine,Ephedrine,Eph,False,True,True,False,,False
+Epinephrine / Ephedrine,Epinephrine,Epinep,False,True,True,,,False
+Epinephrine / Ephedrine,Ephedrine,Epinephrine,True,True,True,False,,False
+Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,True,False,,False
+Epinephrine / Ephedrine,Ephedrine,Epinephrine,True,True,True,False,,False
+Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,True,False,,False
+Epinephrine / Ephedrine,Ephedrine,Eph,False,True,True,False,,False
+Epinephrine / Ephedrine,Epinephrine,Epinephrine,False,True,True,,,False
+Epinephrine / Ephedrine,Ephedrine,Ephedpine,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,True,False,,False
+Epinephrine / Ephedrine,Ephedrine,Ephedrine,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Epieephrine,False,True,True,,,False
+Epinephrine / Ephedrine,Ephedrine,Epinephrine,True,True,True,False,,False
+Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,True,False,,False
+Epinephrine / Ephedrine,Ephedrine,Ephedri,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Epinephnine,False,True,True,,,False
+Epinephrine / Ephedrine,Ephedrine,Ephed,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,True,False,,False
+Epinephrine / Ephedrine,Ephedrine,Ephedrine,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Ephnephrine,False,True,True,,,False
+Epinephrine / Ephedrine,Ephedrine,Ephedrine,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Epine,False,True,True,,,False
+Epinephrine / Ephedrine,Ephedrine,Ephedr,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Epin,False,True,True,,,False
+Epinephrine / Ephedrine,Ephedrine,Epinephrine,True,True,True,False,,False
+Epinephrine / Ephedrine,Epinephrine,Epi,False,True,True,,,False
+Epinephrine / Ephedrine,Ephedrine,Ephed,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Epinephrine,False,True,True,,,False
+Epinephrine / Ephedrine,Ephedrine,Ephedrine,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,True,False,,False
+Epinephrine / Ephedrine,Ephedrine,Ephedri,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Epi,False,True,True,,,False
+Epinephrine / Ephedrine,Ephedrine,Ephedrire,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,True,False,,False
+Epinephrine / Ephedrine,Ephedrine,Ephedr,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Epinepirine,False,True,True,,,False
+Epinephrine / Ephedrine,Ephedrine,Epinephrine,True,True,True,False,,False
+Epinephrine / Ephedrine,Epinephrine,Epineph,False,True,True,,,False
+Epinephrine / Ephedrine,Ephedrine,Ephedrini,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Epinephnine,False,True,True,,,False
+Epinephrine / Ephedrine,Ephedrine,Ephedri,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,True,False,,False
+Epinephrine / Ephedrine,Ephedrine,Ephedrine,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,True,False,,False
+Epinephrine / Ephedrine,Ephedrine,Ephedrhne,False,True,True,,,False
+Epinephrine / Ephedrine,Epinephrine,Ephedrine,True,True,True,False,,False
+Epinephrine / Ephedrine,Ephedrine,Epinephrine,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insul,True,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Lispro,False,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin,False,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insu,False,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insuli,True,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Ins,False,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin,True,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insul,True,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Llargine,False,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Glsrgine,False,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Glargine,False,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Llspro,False,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insul,True,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insuli,False,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insul,False,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Ins,False,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insul,True,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insuli,True,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin,False,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insuli,True,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Giargine,False,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Lispro,False,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Ins,True,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Glargine,False,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insul,True,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insu,False,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insu,True,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insul,True,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insu,False,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insu,True,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Glargine,False,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insul,True,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insuli,False,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insul,True,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insuli,False,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insuli,True,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Llargine,False,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin,False,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Glargine,False,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Lispro,False,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insuli,False,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insuli,False,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insuli,True,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Lispro,False,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insuli,False,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Lispri,False,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Glargine,False,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insul,True,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Lispri,False,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Ins,False,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insuli,True,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insuli,True,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Ins,False,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insul,True,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insuli,False,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Llspro,False,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Glargine,False,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Glargine,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insu,False,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin Lispro,False,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Glargine,False,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insul,True,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insul,False,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insuli,True,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insulin Lispro,True,True,True,False,,False
+Insulin Lispro / Insulin Glargine,Insulin Lispro,Insulin,True,True,True,,,False
+Insulin Lispro / Insulin Glargine,Insulin Glargine,Insu,False,True,True,False,,False
+Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,True,False,,False
+Hydromorphone / Morphine,Morphine,Morphin,False,True,True,,,False
+Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,True,False,,False
+Hydromorphone / Morphine,Morphine,Morphinr,False,True,True,,,False
+Hydromorphone / Morphine,Hydromorphone,Hydromoephone,False,True,True,,,False
+Hydromorphone / Morphine,Morphine,Morph,False,True,True,False,,False
+Hydromorphone / Morphine,Hydromorphone,Hydromnrphone,False,True,True,,,False
+Hydromorphone / Morphine,Morphine,Morph,False,True,True,False,,False
+Hydromorphone / Morphine,Hydromorphone,Hydpomorphone,False,True,True,,,False
+Hydromorphone / Morphine,Morphine,Morp,False,True,True,False,,False
+Hydromorphone / Morphine,Hydromorphone,Hydro,False,True,True,,,False
+Hydromorphone / Morphine,Morphine,Morphioe,False,True,True,,,False
+Hydromorphone / Morphine,Hydromorphone,Hydr,False,True,True,,,False
+Hydromorphone / Morphine,Morphine,Mor,False,True,True,False,,False
+Hydromorphone / Morphine,Hydromorphone,Hydroiorphone,False,True,True,,,False
+Hydromorphone / Morphine,Morphine,Morphinr,False,True,True,,,False
+Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,True,False,,False
+Hydromorphone / Morphine,Morphine,Hydromorphone,True,True,True,False,,False
+Hydromorphone / Morphine,Hydromorphone,Hyrromorphone,False,True,True,,,False
+Hydromorphone / Morphine,Morphine,Hydromorphone,True,True,True,False,,False
+Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,True,False,,False
+Hydromorphone / Morphine,Morphine,Mor,False,True,True,False,,False
+Hydromorphone / Morphine,Hydromorphone,Hydromorphone,False,True,True,,,False
+Hydromorphone / Morphine,Morphine,Morph,False,True,True,False,,False
+Hydromorphone / Morphine,Hydromorphone,Hydromoephone,False,True,True,,,False
+Hydromorphone / Morphine,Morphine,Horphine,False,True,True,,,False
+Hydromorphone / Morphine,Hydromorphone,Hydr,False,True,True,,,False
+Hydromorphone / Morphine,Morphine,Morph,False,True,True,False,,False
+Hydromorphone / Morphine,Hydromorphone,Hydromnrphone,False,True,True,,,False
+Hydromorphone / Morphine,Morphine,Myrphine,False,True,True,,,False
+Hydromorphone / Morphine,Hydromorphone,Hydro,False,True,True,,,False
+Hydromorphone / Morphine,Morphine,Horphine,False,True,True,,,False
+Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,True,False,,False
+Hydromorphone / Morphine,Morphine,Morphi,False,True,True,,,False
+Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,True,False,,False
+Hydromorphone / Morphine,Morphine,Morp,False,True,True,False,,False
+Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,True,False,,False
+Hydromorphone / Morphine,Morphine,Morp,False,True,True,False,,False
+Hydromorphone / Morphine,Hydromorphone,Hydr,False,True,True,,,False
+Hydromorphone / Morphine,Morphine,Morph,False,True,True,False,,False
+Hydromorphone / Morphine,Hydromorphone,Hydrom,False,True,True,,,False
+Hydromorphone / Morphine,Morphine,Modphine,False,True,True,,,False
+Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,True,False,,False
+Hydromorphone / Morphine,Morphine,Morpoine,False,True,True,,,False
+Hydromorphone / Morphine,Hydromorphone,Hydrom,False,True,True,,,False
+Hydromorphone / Morphine,Morphine,Morphi,False,True,True,,,False
+Hydromorphone / Morphine,Hydromorphone,Hydpomorphone,False,True,True,,,False
+Hydromorphone / Morphine,Morphine,Morphinr,False,True,True,,,False
+Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,True,False,,False
+Hydromorphone / Morphine,Morphine,Morph,False,True,True,False,,False
+Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,True,False,,False
+Hydromorphone / Morphine,Morphine,Morph,False,True,True,False,,False
+Hydromorphone / Morphine,Hydromorphone,Hydromorphone,False,True,True,,,False
+Hydromorphone / Morphine,Morphine,Horphine,False,True,True,,,False
+Hydromorphone / Morphine,Hydromorphone,Hydromorphone,False,True,True,,,False
+Hydromorphone / Morphine,Morphine,Morph,False,True,True,False,,False
+Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,True,False,,False
+Hydromorphone / Morphine,Morphine,Hydromorphone,True,True,True,False,,False
+Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,True,False,,False
+Hydromorphone / Morphine,Morphine,Modphine,False,True,True,,,False
+Hydromorphone / Morphine,Hydromorphone,Hyd,False,True,True,,,False
+Hydromorphone / Morphine,Morphine,Hydromorphone,True,True,True,False,,False
+Hydromorphone / Morphine,Hydromorphone,Hydr,False,True,True,,,False
+Hydromorphone / Morphine,Morphine,Hydromorphone,True,True,True,False,,False
+Hydromorphone / Morphine,Hydromorphone,Hyrromorphone,False,True,True,,,False
+Hydromorphone / Morphine,Morphine,Hydromorphone,True,True,True,False,,False
+Hydromorphone / Morphine,Hydromorphone,Hydroiorphone,False,True,True,,,False
+Hydromorphone / Morphine,Morphine,Morph,False,True,True,False,,False
+Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,True,False,,False
+Hydromorphone / Morphine,Morphine,Morph,False,True,True,False,,False
+Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,True,False,,False
+Hydromorphone / Morphine,Morphine,Modphine,False,True,True,,,False
+Hydromorphone / Morphine,Hydromorphone,Hydpomorphone,False,True,True,,,False
+Hydromorphone / Morphine,Morphine,Morphioe,False,True,True,,,False
+Hydromorphone / Morphine,Hydromorphone,Hydromorphone,False,True,True,,,False
+Hydromorphone / Morphine,Morphine,Mor,False,True,True,False,,False
+Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,True,False,,False
+Hydromorphone / Morphine,Morphine,Morph,False,True,True,False,,False
+Hydromorphone / Morphine,Hydromorphone,Hydroiorphone,False,True,True,,,False
+Hydromorphone / Morphine,Morphine,Hydromorphone,True,True,True,False,,False
+Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,True,False,,False
+Hydromorphone / Morphine,Morphine,Morphin,False,True,True,,,False
+Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,True,False,,False
+Hydromorphone / Morphine,Morphine,Morpoine,False,True,True,,,False
+Hydromorphone / Morphine,Hydromorphone,Hyd,False,True,True,,,False
+Hydromorphone / Morphine,Morphine,Hydromorphone,True,True,True,False,,False
+Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,True,False,,False
+Hydromorphone / Morphine,Morphine,Hydromorphone,True,True,True,False,,False
+Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,True,False,,False
+Hydromorphone / Morphine,Morphine,Morphin,False,True,True,,,False
+Hydromorphone / Morphine,Hydromorphone,Hydr,False,True,True,,,False
+Hydromorphone / Morphine,Morphine,Myrphine,False,True,True,,,False
+Hydromorphone / Morphine,Hydromorphone,Hydromorphone,False,True,True,,,False
+Hydromorphone / Morphine,Morphine,Morph,False,True,True,False,,False
+Hydromorphone / Morphine,Hydromorphone,Hydrom,False,True,True,,,False
+Hydromorphone / Morphine,Morphine,Morp,False,True,True,False,,False
+Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,True,False,,False
+Hydromorphone / Morphine,Morphine,Morph,False,True,True,False,,False
+Hydromorphone / Morphine,Hydromorphone,Morphine,True,True,True,False,,False
+Hydromorphone / Morphine,Morphine,Morphinr,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Lorazepam,True,True,True,False,,False
+Losartan / Lorazepam,Lorazepam,Lor,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Lorazepam,True,True,True,False,,False
+Losartan / Lorazepam,Lorazepam,Lorazepam,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Lorazepam,True,True,True,False,,False
+Losartan / Lorazepam,Lorazepam,Losartan,True,True,True,False,,False
+Losartan / Lorazepam,Losartan,Losarean,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Lorazepam,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Lorazepam,True,True,True,False,,False
+Losartan / Lorazepam,Lorazepam,Lorazepam,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Lorazepam,True,True,True,False,,False
+Losartan / Lorazepam,Lorazepam,Lor,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Lorazepam,True,True,True,False,,False
+Losartan / Lorazepam,Lorazepam,Loraztpam,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Lorazepam,True,True,True,False,,False
+Losartan / Lorazepam,Lorazepam,Losartan,True,True,True,False,,False
+Losartan / Lorazepam,Losartan,Lorazepam,True,True,True,False,,False
+Losartan / Lorazepam,Lorazepam,Loraz,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Los,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Lora,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Losartan,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Lorazepam,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Lorazepam,True,True,True,False,,False
+Losartan / Lorazepam,Lorazepam,Losartan,True,True,True,False,,False
+Losartan / Lorazepam,Losartan,Losartpn,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Loraze,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Losartaa,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Losartan,True,True,True,False,,False
+Losartan / Lorazepam,Losartan,Los,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Losartan,True,True,True,False,,False
+Losartan / Lorazepam,Losartan,Losar,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Lorazep,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Losart,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Loraze,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Lorazepam,True,True,True,False,,False
+Losartan / Lorazepam,Lorazepam,Lorazepam,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Losartan,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Lora,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Losart,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Lor,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Lorazepam,True,True,True,False,,False
+Losartan / Lorazepam,Lorazepam,Losartan,True,True,True,False,,False
+Losartan / Lorazepam,Losartan,Losart,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Losartan,True,True,True,False,,False
+Losartan / Lorazepam,Losartan,Lorazepam,True,True,True,False,,False
+Losartan / Lorazepam,Lorazepam,Losazepam,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Losarta,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Lorazepam,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Lorazepam,True,True,True,False,,False
+Losartan / Lorazepam,Lorazepam,Loraze,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Losartan,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Lorarepam,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Losarta,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Lora,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Losa,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Loraztpam,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Losarean,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Losartan,True,True,True,False,,False
+Losartan / Lorazepam,Losartan,Lorazepam,True,True,True,False,,False
+Losartan / Lorazepam,Lorazepam,Lorazep,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Losarta,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Losartan,True,True,True,False,,False
+Losartan / Lorazepam,Losartan,Losaztan,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Losartan,True,True,True,False,,False
+Losartan / Lorazepam,Losartan,Losarean,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Lora,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Losartpn,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Losartan,True,True,True,False,,False
+Losartan / Lorazepam,Losartan,Losartan,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Lorazepam,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Losart,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Losartan,True,True,True,False,,False
+Losartan / Lorazepam,Losartan,Losartan,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Losazepam,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Lorazepam,True,True,True,False,,False
+Losartan / Lorazepam,Lorazepam,Loraz,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Losart,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Loraze,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Losa,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Lorazepam,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Lorazepam,True,True,True,False,,False
+Losartan / Lorazepam,Lorazepam,Lorazep,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Losar,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Losartan,True,True,True,False,,False
+Losartan / Lorazepam,Losartan,Los,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Losartan,True,True,True,False,,False
+Losartan / Lorazepam,Losartan,Losaztan,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Losartan,True,True,True,False,,False
+Losartan / Lorazepam,Losartan,Losart,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Losartan,True,True,True,False,,False
+Losartan / Lorazepam,Losartan,Losarean,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Losartan,True,True,True,False,,False
+Losartan / Lorazepam,Losartan,Lorazepam,True,True,True,False,,False
+Losartan / Lorazepam,Lorazepam,Loraztpam,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Losarta,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Loraze,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Lorazepam,True,True,True,False,,False
+Losartan / Lorazepam,Lorazepam,Losazepam,False,True,True,,,False
+Losartan / Lorazepam,Losartan,Losartaa,False,True,True,,,False
+Losartan / Lorazepam,Lorazepam,Loraztpam,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorp,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpropamide,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpropamide,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlo,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpropazide,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorp,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpromazine,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpr,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpromazine,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpropazide,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlor,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlor,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlor,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpromazine,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpr,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chl,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpr,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlo,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropazine,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlo,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpromazine,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlor,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorp,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpr,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpropamide,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpropamide,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpromazine,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlo,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpromazine,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlor,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpr,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chl,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlo,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromamide,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpromazine,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromamide,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpropamide,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlo,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpromazide,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpropamide,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorp,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlo,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorp,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpromazide,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlo,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpromazine,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlor,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorp,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpropamide,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpropamide,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlor,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chl,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chl,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpromazine,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpropamide,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpromazine,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chl,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlo,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpr,False,True,True,,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpr,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpromazine,Chlorpropamide,True,True,True,False,,False
+Chlorpromazine / Chlorpropamide,Chlorpropamide,Chlorpromazine,True,True,True,False,,False
+Metformin / Metronidazole,Metformin,Metform,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Met,True,True,False,,True,False
+Metformin / Metronidazole,Metformin,Metform,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Metformin,True,True,False,,True,False
+Metformin / Metronidazole,Metformin,Metronidazole,True,True,False,,True,False
+Metformin / Metronidazole,Metronidazole,Metroni,False,True,False,,,False
+Metformin / Metronidazole,Metformin,Metform,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Met,True,True,False,,True,False
+Metformin / Metronidazole,Metformin,Metform,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Metroni,False,True,False,,,False
+Metformin / Metronidazole,Metformin,Metfor,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Metronidazole,False,True,False,,,False
+Metformin / Metronidazole,Metformin,Metfo,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Metformin,True,True,False,,True,False
+Metformin / Metronidazole,Metformin,Metfonmin,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Metformin,True,True,False,,True,False
+Metformin / Metronidazole,Metformin,Metronidazole,True,True,False,,True,False
+Metformin / Metronidazole,Metronidazole,Metronidazole,False,True,False,,,False
+Metformin / Metronidazole,Metformin,Metronidazole,True,True,False,,True,False
+Metformin / Metronidazole,Metronidazole,Metronidazole,False,True,False,,,False
+Metformin / Metronidazole,Metformin,Metformdn,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Metroniiazole,False,True,False,,,False
+Metformin / Metronidazole,Metformin,Metf,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Metformin,True,True,False,,True,False
+Metformin / Metronidazole,Metformin,Metfo,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Metformin,True,True,False,,True,False
+Metformin / Metronidazole,Metformin,Metfonmin,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Metronidnzole,False,True,False,,,False
+Metformin / Metronidazole,Metformin,Metform,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Met,True,True,False,,True,False
+Metformin / Metronidazole,Metformin,Metronidazole,True,True,False,,True,False
+Metformin / Metronidazole,Metronidazole,Metronidazole,False,True,False,,,False
+Metformin / Metronidazole,Metformin,Metronidazole,True,True,False,,True,False
+Metformin / Metronidazole,Metronidazole,Metron,False,True,False,,,False
+Metformin / Metronidazole,Metformin,Metforiin,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Metformin,True,True,False,,True,False
+Metformin / Metronidazole,Metformin,Metfo,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Metronidnzole,False,True,False,,,False
+Metformin / Metronidazole,Metformin,Metronidazole,True,True,False,,True,False
+Metformin / Metronidazole,Metronidazole,Metron,False,True,False,,,False
+Metformin / Metronidazole,Metformin,Metf,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Metro,False,True,False,,,False
+Metformin / Metronidazole,Metformin,Metronidazole,True,True,False,,True,False
+Metformin / Metronidazole,Metronidazole,Metformin,True,True,False,,True,False
+Metformin / Metronidazole,Metformin,Metformin,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Metro,False,True,False,,,False
+Metformin / Metronidazole,Metformin,Metfo,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Metron,False,True,False,,,False
+Metformin / Metronidazole,Metformin,Metronidazole,True,True,False,,False,True
+Metformin / Metronidazole,Metronidazole,Metronidazole,False,True,False,,,False
+Metformin / Metronidazole,Metformin,Metfor,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Metr,False,True,False,,,False
+Metformin / Metronidazole,Metformin,Metformin,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Metronidazole,False,True,False,,,False
+Metformin / Metronidazole,Metformin,Metformin,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Metformin,True,True,False,,True,False
+Metformin / Metronidazole,Metformin,Metfo,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Metroni,False,True,False,,,False
+Metformin / Metronidazole,Metformin,Metronidazole,True,True,False,,True,False
+Metformin / Metronidazole,Metronidazole,Metro,False,True,False,,,False
+Metformin / Metronidazole,Metformin,Met,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Metroni,False,True,False,,,False
+Metformin / Metronidazole,Metformin,Metfo,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Metr,False,True,False,,,False
+Metformin / Metronidazole,Metformin,Metformin,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Metroniiazole,False,True,False,,,False
+Metformin / Metronidazole,Metformin,Metform,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Metformin,True,True,False,,True,False
+Metformin / Metronidazole,Metformin,Metrormin,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Metronidazole,False,True,False,,,False
+Metformin / Metronidazole,Metformin,Metfor,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Metformin,True,True,False,,True,False
+Metformin / Metronidazole,Metformin,Metronidazole,True,True,False,,True,False
+Metformin / Metronidazole,Metronidazole,Metronidazole,False,True,False,,,False
+Metformin / Metronidazole,Metformin,Metfonmin,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Met,True,True,False,,True,False
+Metformin / Metronidazole,Metformin,Metronidazole,True,True,False,,True,False
+Metformin / Metronidazole,Metronidazole,Metformin,True,True,False,,True,False
+Metformin / Metronidazole,Metformin,Metformin,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Metronidnzole,False,True,False,,,False
+Metformin / Metronidazole,Metformin,Metronidazole,True,True,False,,False,True
+Metformin / Metronidazole,Metronidazole,Metfonidazole,False,True,False,,,False
+Metformin / Metronidazole,Metformin,Metformin,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Metroni,False,True,False,,,False
+Metformin / Metronidazole,Metformin,Metform,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Metformin,True,True,False,,False,True
+Metformin / Metronidazole,Metformin,Metronidazole,True,True,False,,True,False
+Metformin / Metronidazole,Metronidazole,Metroniiazole,False,True,False,,,False
+Metformin / Metronidazole,Metformin,Metfor,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Metronidazole,False,True,False,,,False
+Metformin / Metronidazole,Metformin,Metronidazole,True,True,False,,True,False
+Metformin / Metronidazole,Metronidazole,Metformin,True,True,False,,True,False
+Metformin / Metronidazole,Metformin,Metf,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Metronidazole,False,True,False,,,False
+Metformin / Metronidazole,Metformin,Metform,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Metformin,True,True,False,,False,True
+Metformin / Metronidazole,Metformin,Met,False,True,False,,,False
+Metformin / Metronidazole,Metronidazole,Metronidnzole,False,True,False,,,False
+Metformin / Metronidazole,Metformin,Metronidazole,True,True,False,,True,False
+Metformin / Metronidazole,Metronidazole,Metformin,True,True,False,,True,False

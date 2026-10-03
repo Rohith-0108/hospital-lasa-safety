@@ -1,9 +1,9 @@
 pair,trials,baseline_errors,proposed_errors,baseline_error_rate,proposed_error_rate,errors_prevented
-Hydralazine / Hydroxyzine,100,40,4,0.4,0.04,36
-Vinblastine / Vincristine,100,32,7,0.32,0.07,25
-Epinephrine / Ephedrine,100,30,3,0.3,0.03,27
-Insulin Lispro / Insulin Glargine,100,59,8,0.59,0.08,51
-Hydromorphone / Morphine,100,30,9,0.3,0.09,21
-Losartan / Lorazepam,100,35,5,0.35,0.05,30
-Chlorpromazine / Chlorpropamide,100,58,8,0.58,0.08,50
+Hydralazine / Hydroxyzine,100,40,0,0.4,0.0,40
+Vinblastine / Vincristine,100,32,0,0.32,0.0,32
+Epinephrine / Ephedrine,100,30,0,0.3,0.0,30
+Insulin Lispro / Insulin Glargine,100,59,0,0.59,0.0,59
+Hydromorphone / Morphine,100,30,0,0.3,0.0,30
+Losartan / Lorazepam,100,35,0,0.35,0.0,35
+Chlorpromazine / Chlorpropamide,100,58,0,0.58,0.0,58
 Metformin / Metronidazole,100,34,4,0.34,0.04,30
